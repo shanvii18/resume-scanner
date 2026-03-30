@@ -31,7 +31,8 @@ Resume Scanner is an AI-powered tool designed to make evaluating resumes faster 
 
 
 ## Project Structure
-```resume-scanner/
+```
+resume-scanner/
 │
 ├─ app.py
 ├─ model.py
