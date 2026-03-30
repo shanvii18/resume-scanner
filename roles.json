@@ -1,0 +1,144 @@
+{
+  "software_engineer": {
+  "python": 3,
+  "java": 3,
+  "c++": 3,
+  "javascript": 2,
+  "sql": 3,
+  "dsa": 5,
+  "data structures": 5,
+  "algorithms": 5,
+  "oops": 4,
+  "object oriented programming": 4,
+  "git": 3,
+  "github": 2,
+  "api": 3,
+  "rest api": 3,
+  "backend": 3,
+  "frontend": 2,
+  "react": 2,
+  "node": 2,
+  "system design": 4,
+  "operating system": 3,
+  "dbms": 3,
+  "database": 3,
+  "linux": 2,
+  "debugging": 3,
+  "testing": 2,
+  "agile": 2,
+  "docker": 2,
+  "kubernetes": 1,
+  "aws": 2
+},
+
+  "web developer": {
+    "html": 1,
+    "css": 1,
+    "javascript": 2,
+    "react": 3,
+    "node.js": 2,
+    "express": 1,
+    "api": 1,
+    "mongodb": 1,
+    "sql": 1,
+    "git": 1
+  },
+
+  "data analyst": {
+    "sql": 3,
+    "python": 2,
+    "excel": 2,
+    "statistics": 2,
+    "data visualization": 2,
+    "power bi": 1,
+    "tableau": 1,
+    "pandas": 2,
+    "numpy": 1
+  },
+
+ "machine learning engineer": {
+   "machine learning": 4,
+    "ml": 4,
+    "deep learning": 4,
+    "nlp": 3,
+    "computer vision": 3,
+    "pandas": 3,
+    "numpy": 3,
+    "tensorflow": 3,
+    "pytorch": 3,
+    "scikit-learn": 3,
+    "data analysis": 3,
+    "data science": 3
+ },
+
+  "ai engineer": {
+    "python": 3,
+    "machine learning": 3,
+    "deep learning": 2,
+    "nlp": 2,
+    "computer vision": 2,
+    "pytorch": 2,
+    "tensorflow": 2,
+    "data preprocessing": 1
+  },
+
+  "cloud engineer": {
+    "aws": 3,
+    "azure": 2,
+    "linux": 2,
+    "docker": 2,
+    "kubernetes": 2,
+    "terraform": 2,
+    "ci/cd": 2,
+    "networking": 1
+  },
+
+  "devops engineer": {
+    "linux": 2,
+    "docker": 2,
+    "kubernetes": 2,
+    "ci/cd": 3,
+    "aws": 2,
+    "terraform": 2,
+    "jenkins": 2,
+    "monitoring": 1
+  },
+
+  "ml intern": {
+    "python": 3,
+    "machine learning": 2,
+    "pandas": 1,
+    "numpy": 1,
+    "statistics": 1,
+    "projects": 2,
+    "data preprocessing": 1
+  },
+
+  "data analyst intern": {
+    "sql": 3,
+    "excel": 2,
+    "python": 2,
+    "statistics": 1,
+    "data visualization": 1,
+    "projects": 2
+  },
+
+  "web developer intern": {
+    "html": 2,
+    "css": 2,
+    "javascript": 2,
+    "react": 2,
+    "projects": 2,
+    "git": 1
+  },
+
+  "software engineer intern": {
+    "data structures": 3,
+    "algorithms": 3,
+    "python": 2,
+    "java": 2,
+    "git": 1,
+    "problem solving": 2,
+    "projects": 2
+  }
+}

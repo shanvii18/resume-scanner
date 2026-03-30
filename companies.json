@@ -1,0 +1,298 @@
+{
+  "google": {
+    "software engineer": {
+      "c++": 3,
+      "python": 2,
+      "algorithms": 3,
+      "system design": 2,
+      "data structures": 3
+    },
+    "data scientist": {
+      "python": 3,
+      "sql": 2,
+      "statistics": 2,
+      "machine learning": 3
+    },
+    "ml engineer": {
+      "python": 3,
+      "deep learning": 3,
+      "tensorflow": 2,
+      "pytorch": 2
+    }
+  },
+
+  "amazon": {
+    "software engineer": {
+      "java": 3,
+      "aws": 2,
+      "system design": 2,
+      "data structures": 3
+    },
+    "cloud engineer": {
+      "aws": 3,
+      "linux": 2,
+      "docker": 2,
+      "terraform": 2
+    },
+    "data analyst": {
+      "sql": 3,
+      "excel": 2,
+      "python": 2,
+      "tableau": 1
+    }
+  },
+
+  "microsoft": {
+    "software engineer": {
+      "c#": 3,
+      "python": 2,
+      "data structures": 3,
+      "system design": 2
+    },
+    "cloud engineer": {
+      "azure": 3,
+      "linux": 2,
+      "docker": 2,
+      "kubernetes": 2
+    },
+    "data scientist": {
+      "python": 3,
+      "statistics": 2,
+      "machine learning": 3
+    }
+  },
+
+  "meta": {
+    "software engineer": {
+      "c++": 3,
+      "python": 2,
+      "algorithms": 3,
+      "system design": 2
+    },
+    "ml engineer": {
+      "python": 3,
+      "pytorch": 2,
+      "deep learning": 3
+    },
+    "data analyst": {
+      "sql": 3,
+      "python": 2,
+      "data visualization": 2
+    }
+  },
+
+  "netflix": {
+    "software engineer": {
+      "java": 3,
+      "python": 2,
+      "distributed systems": 3
+    },
+    "data engineer": {
+      "python": 2,
+      "sql": 3,
+      "spark": 2,
+      "big data": 2
+    }
+  },
+
+  "apple": {
+    "software engineer": {
+      "swift": 3,
+      "objective-c": 2,
+      "data structures": 3,
+      "system design": 2
+    },
+    "ml engineer": {
+      "python": 3,
+      "core ml": 2,
+      "deep learning": 3
+    },
+    "ios developer": {
+      "swift": 3,
+      "ios": 2,
+      "xcode": 2,
+      "ui/ux": 1
+    }
+  },
+
+  "ibm": {
+    "software engineer": {
+      "java": 3,
+      "python": 2,
+      "cloud": 2,
+      "microservices": 2
+    },
+    "data scientist": {
+      "python": 3,
+      "sql": 2,
+      "machine learning": 3
+    },
+    "cloud engineer": {
+      "linux": 2,
+      "docker": 2,
+      "kubernetes": 2,
+      "ibm cloud": 2
+    }
+  },
+
+  "oracle": {
+    "software engineer": {
+      "java": 3,
+      "sql": 2,
+      "data structures": 3
+    },
+    "database engineer": {
+      "sql": 3,
+      "pl/sql": 2,
+      "performance tuning": 2
+    },
+    "cloud engineer": {
+      "oracle cloud": 3,
+      "linux": 2,
+      "terraform": 2
+    }
+  },
+
+  "adobe": {
+    "software engineer": {
+      "java": 3,
+      "python": 2,
+      "system design": 3
+    },
+    "frontend developer": {
+      "javascript": 3,
+      "react": 3,
+      "css": 2
+    },
+    "data scientist": {
+      "python": 3,
+      "machine learning": 3,
+      "statistics": 2
+    }
+  },
+
+  "salesforce": {
+    "software engineer": {
+      "java": 3,
+      "apex": 2,
+      "cloud": 2
+    },
+    "data engineer": {
+      "sql": 3,
+      "python": 2,
+      "etl": 2
+    },
+    "cloud engineer": {
+      "aws": 3,
+      "linux": 2,
+      "ci/cd": 2
+    }
+  },
+
+  "intel": {
+    "software engineer": {
+      "c": 3,
+      "c++": 3,
+      "operating systems": 3
+    },
+    "embedded engineer": {
+      "c": 3,
+      "microcontrollers": 2,
+      "rtos": 2
+    },
+    "data scientist": {
+      "python": 3,
+      "machine learning": 3
+    }
+  },
+
+  "nvidia": {
+    "software engineer": {
+      "c++": 3,
+      "python": 2,
+      "gpu programming": 3
+    },
+    "ml engineer": {
+      "python": 3,
+      "pytorch": 2,
+      "cuda": 3
+    },
+    "data scientist": {
+      "python": 3,
+      "statistics": 2,
+      "machine learning": 3
+    }
+  },
+
+  "tesla": {
+    "software engineer": {
+      "python": 3,
+      "c++": 3,
+      "embedded systems": 3
+    },
+    "ml engineer": {
+      "python": 3,
+      "deep learning": 3,
+      "computer vision": 3
+    },
+    "data engineer": {
+      "python": 2,
+      "sql": 3,
+      "big data": 2
+    }
+  },
+
+  "spotify": {
+    "backend engineer": {
+      "python": 3,
+      "java": 2,
+      "microservices": 3
+    },
+    "data scientist": {
+      "python": 3,
+      "sql": 3,
+      "machine learning": 3
+    },
+    "ml engineer": {
+      "python": 3,
+      "tensorflow": 2,
+      "deep learning": 3
+    }
+  },
+
+  "uber": {
+    "software engineer": {
+      "java": 3,
+      "python": 2,
+      "distributed systems": 3
+    },
+    "data scientist": {
+      "python": 3,
+      "sql": 3,
+      "machine learning": 3
+    },
+    "ml engineer": {
+      "python": 3,
+      "pytorch": 2,
+      "deep learning": 3
+    }
+  },
+
+  "linkedin": {
+    "software engineer": {
+      "java": 3,
+      "python": 2,
+      "system design": 3
+    },
+    "data scientist": {
+      "python": 3,
+      "sql": 3,
+      "statistics": 2
+    },
+    "ml engineer": {
+      "python": 3,
+      "deep learning": 3,
+      "nlp": 2
+    }
+  }
+}
