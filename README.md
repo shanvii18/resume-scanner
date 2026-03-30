@@ -33,12 +33,12 @@ Resume Scanner is an AI-powered tool designed to make evaluating resumes faster 
 ## Project Structure
 resume-scanner/
 │
-├─ app.py               # Main Streamlit application
-├─ model.py             # Machine learning model
-├─ data/                # Sample datasets
-├─ utils/               # Helper functions
-├─ requirements.txt     # Python dependencies
-└─ README.md            # This file
+├─ app.py
+├─ model.py
+├─ data/
+├─ utils/
+├─ requirements.txt
+└─ README.md
 
 ## Screenshots
 
